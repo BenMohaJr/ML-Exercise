@@ -1,0 +1,11 @@
+{
+  "file_path": "path/to/your/file.csv",
+  "filters": {
+    "painkillers": "No",
+    "gender": "M",
+    "age": "25-50",
+    "time_from_injury": "1-3",
+    "know_nlp": "Y",
+    "faith_nlp": "Y"
+  }
+}
