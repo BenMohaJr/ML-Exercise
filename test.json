@@ -1,5 +1,5 @@
 {
-  "file_path": "path/to/your/file.csv",
+  "file_path": "file.csv",
   "filters": {
     "painkillers": "No",
     "gender": "M",
